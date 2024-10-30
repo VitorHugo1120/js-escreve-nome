@@ -6,18 +6,18 @@ function setup() {
     background(220);     
   }
   function draw() {
-      background("white");
+      background("black");
       
       rect(0, 10, 100, 150);
   }
   function draw() {
-      background("white");
+      background("black");
   
       fill("red");
       rect(0, 10, 100, 150);
   }
   function draw() {
-      background("white");
+      background("black");
       
       stroke("blue") 
       fill("red") 
